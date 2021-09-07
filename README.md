@@ -170,6 +170,6 @@ public class weatherReports {
   
   - After completing the technical challenge, what would you do differently if you were asked to do the same challenge again? <br /> 
   1. I probably would have created the test using Cucumber framework. Despite managing to create some tests using Rest Assured, a lot of time was spent in the initial set up i.e reading about RestAssured, watching videos, setting dependencies etc. 
-  2. Given myself more time to do some more exploratory testing to determine the scope of the API
+  2. Given myself more time to do some more exploratory testing to determine the scope of the API i.e. create an options request test (even though the get request on base url provides you with some data but not everything) 
 
   
